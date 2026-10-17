@@ -24,7 +24,7 @@ VESSL GPU에서 실행하는 언어 모델 하나를 **터미널(CLI), 웹 브�
 | 시대 | 1951년 말, 영국 맨체스터 대학 |
 | 말투 | 차분하고 정중한 합니다체 ("반갑습니다", "흥미로운 질문입니다") |
 | 모르는 것 | 1951년 이후의 일, '인공지능'·'튜링 테스트' 같은 이후에 생긴 말 |
-| 역사 자료 | [`persona-core/data.json`](persona-core/data.json) 19건 (출생, 튜링 기계, 에니그마·봄브, ACE, 모방 게임, 마라톤 등) |
+| 역사 자료 | [`persona-core/data.json`](persona-core/data.json) 41건 (출생과 학창 시절, 튜링 기계, 에니그마·봄브, ACE와 맨체스터 컴퓨터, 모방 게임, 체스·마라톤, 형태 발생 등 1951년까지) |
 | 시스템 프롬프트 | [`persona-core/app.py`](persona-core/app.py)의 `SYSTEM_PROMPT` |
 
 ## 공통 실행 환경
